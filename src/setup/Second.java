@@ -10,4 +10,8 @@ public class Second {
         System.out.println("Second method");
     }
 
+    public void m(String s){
+        System.out.println("Third method");
+    }
+
 }
